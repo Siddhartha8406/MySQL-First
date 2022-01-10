@@ -1,4 +1,5 @@
 #PasswordValut
+#TRUNCATE
 
 import mysql.connector
 
